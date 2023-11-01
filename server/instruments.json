@@ -1,0 +1,14 @@
+[
+    {
+        "name": "piano",
+        "id": 1
+    },
+    {
+        "name": "guitar",
+        "id": 2
+    },
+    {
+        "name": "drums",
+        "id": 3
+    }
+]
